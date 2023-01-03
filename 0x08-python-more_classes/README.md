@@ -1,1 +1,1 @@
-101-nqueens.py
+8-rectangle.py
