@@ -1,1 +1,1 @@
-2-remove_database.sql
+3-list_tables.sql
