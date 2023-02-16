@@ -1,1 +1,1 @@
-100-move_to_utf8.sql
+101-avg_temperatures.sql
