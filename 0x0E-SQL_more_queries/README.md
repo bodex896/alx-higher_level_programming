@@ -1,1 +1,1 @@
-102-rating_shows.sql
+103-rating_genres.sql
