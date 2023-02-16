@@ -1,1 +1,1 @@
-11-genre_id_all_shows.sql
+12-no_genre.sql
